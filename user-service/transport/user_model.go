@@ -2,8 +2,8 @@ package transport
 
 import (
 	"context"
-	"github.com/longjoy/micro-go-book/ch13-seckill/pb"
-	"github.com/longjoy/micro-go-book/ch13-seckill/user-service/endpoint"
+	"github.com/lost222/seckill/pb"
+	"github.com/lost222/seckill/user-service/endpoint"
 )
 
 func EncodeGRPCUserRequest(_ context.Context, r interface{}) (interface{}, error) {

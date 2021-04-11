@@ -2,7 +2,7 @@ package model
 
 import (
 	"encoding/json"
-	"github.com/longjoy/micro-go-book/ch13-seckill/pkg/mysql"
+	"github.com/lost222/seckill/pkg/mysql"
 	"log"
 )
 

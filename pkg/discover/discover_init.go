@@ -3,9 +3,9 @@ package discover
 import (
 	"errors"
 	"fmt"
-	"github.com/longjoy/micro-go-book/ch13-seckill/pkg/bootstrap"
-	"github.com/longjoy/micro-go-book/ch13-seckill/pkg/common"
-	"github.com/longjoy/micro-go-book/ch13-seckill/pkg/loadbalance"
+	"github.com/lost222/seckill/pkg/bootstrap"
+	"github.com/lost222/seckill/pkg/common"
+	"github.com/lost222/seckill/pkg/loadbalance"
 	uuid "github.com/satori/go.uuid"
 	"log"
 	"net/http"

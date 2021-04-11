@@ -3,8 +3,8 @@ package transport
 import (
 	"context"
 	"github.com/go-kit/kit/transport/grpc"
-	"github.com/longjoy/micro-go-book/ch13-seckill/pb"
-	endpts "github.com/longjoy/micro-go-book/ch13-seckill/user-service/endpoint"
+	"github.com/lost222/seckill/pb"
+	endpts "github.com/lost222/seckill/user-service/endpoint"
 )
 
 type grpcServer struct {

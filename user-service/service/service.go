@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"github.com/longjoy/micro-go-book/ch13-seckill/user-service/model"
+	"github.com/lost222/seckill/user-service/model"
 	"log"
 )
 

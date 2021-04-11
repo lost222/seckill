@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d97aa13-6acb-4352-ba29-a35038fd6656" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ch13-seckill.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/route/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/route/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/client_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/client_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/endpoint/endpoints.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/endpoint/endpoints.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/model/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/model/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/service/client_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/service/client_service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/service/token_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/service/token_service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/service/user_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/service/user_service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/transport/grpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/transport/grpc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/transport/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/transport/http.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth-service/transport/oauth_model.go" beforeDir="false" afterPath="$PROJECT_DIR$/oauth-service/transport/oauth_model.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/client/decorator.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/client/decorator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/client/oauth.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/client/oauth.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/client/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/client/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/client/user_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/client/user_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/config/ConfigProperty.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/config/ConfigProperty.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/discover/discover_init.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/discover/discover_init.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/discover/discovery_client.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/discover/discovery_client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/discover/kit_consul_client.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/discover/kit_consul_client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/loadbalance/loadbalance.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/loadbalance/loadbalance.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/endpoint/endpoints.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/endpoint/endpoints.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/etcd_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/etcd_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/model/activity.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/model/activity.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/model/product.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/model/product.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/plugins/instrument.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/plugins/instrument.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/plugins/logging.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/plugins/logging.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/service/activity.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/service/activity.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/service/product.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/service/product.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/setup/etcd.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/setup/etcd.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/setup/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/setup/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/setup/zk.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/setup/zk.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/setup/zk_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/setup/zk_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-admin/transport/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-admin/transport/http.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/endpoint/endpoints.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/endpoint/endpoints.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/plugins/instrument.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/plugins/instrument.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/plugins/logging.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/plugins/logging.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/service/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/service/srv_limit/anti_spam.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/service/srv_limit/anti_spam.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/service/srv_redis/redis_proc.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/service/srv_redis/redis_proc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/setup/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/setup/redis.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/setup/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/setup/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/setup/zk.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/setup/zk.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-app/transport/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-app/transport/http.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-core/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-core/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-core/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-core/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-core/service/srv_redis/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-core/service/srv_redis/redis.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-core/service/srv_redis/user_skill.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-core/service/srv_redis/user_skill.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-core/setup/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-core/setup/redis.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-core/setup/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-core/setup/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk-core/setup/zk.go" beforeDir="false" afterPath="$PROJECT_DIR$/sk-core/setup/zk.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/endpoint/endpoints.go" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/endpoint/endpoints.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/model/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/model/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/plugins/instrument.go" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/plugins/instrument.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/plugins/logging.go" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/plugins/logging.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/service/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/transport/grpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/transport/grpc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/transport/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/transport/http.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/transport/user_model.go" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/transport/user_model.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://C:/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1qytoIJqUW9PtRzwaDx7KOqUh5e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
